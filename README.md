@@ -22,7 +22,7 @@ pod 'SwiftyLocalKit'
 
 ## Author
 
-cdzhangshuangyu, danielzsy@126.com
+DanielZSY, danielzsy@126.com
 
 ## License
 

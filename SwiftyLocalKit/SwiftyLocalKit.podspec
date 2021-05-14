@@ -14,7 +14,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'SwiftyLocalKit'
-  s.version          = '1.0.0'
+  s.version          = '0.0.1'
   s.summary          = 'SwiftyLocalKit'
   s.module_name      = 'SwiftyLocalKit'
   
@@ -31,7 +31,6 @@ Pod::Spec.new do |s|
   s.frameworks    = 'UIKit'
   s.libraries     = 'z', 'sqlite3', 'c++'
   s.source_files  = 'SwiftyLocalKit/**/*.{swift,h,m}'
-  s.resources     = ['SwiftyLocalKit/**/*.strings']
   
   s.dependency 'SwiftDate'
   s.dependency 'HandyJSON'

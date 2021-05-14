@@ -7,7 +7,7 @@ PODS:
   - HandyJSON (5.0.2)
   - Kingfisher (6.3.0)
   - SwiftDate (6.3.1)
-  - SwiftyLocalKit (1.0.0):
+  - SwiftyLocalKit (0.0.1):
     - BFKit-Swift
     - CryptoSwift
     - GRDB.swift
@@ -38,7 +38,7 @@ SPEC CHECKSUMS:
   HandyJSON: 9e4e236f5d2dbefad5155a77417bbea438201c03
   Kingfisher: 6c3df386db71d82c0817a429d2c9421a77396529
   SwiftDate: 72d28954e8e1c6c1c0f917ccc8005e4f83c7d4b2
-  SwiftyLocalKit: a7fa8cdccd6c7f7341bc1c66cd573180731a6f51
+  SwiftyLocalKit: 9ca5bc4388a995266acd9c5ac547df012b669733
 
 PODFILE CHECKSUM: 5c5afd88c499f5971f3bfac60ddf4931c21bc8d4
 
